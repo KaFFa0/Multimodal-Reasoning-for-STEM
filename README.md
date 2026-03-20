@@ -6,6 +6,7 @@ SFT мультимодальной модели **Qwen3-VL-4B-Instruct** для 
 ## Общая информация
 - Модель: [Qwen/Qwen3-VL-4B-Instruct](https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct)
 - Итоговая лучшая SFT модель: [KaFFa0/Qwen3-VL-latex-lora](https://huggingface.co/KaFFa0/qwen3-vl-latex-lora)
+- SFT на комбинированном датасете: [KaFFa0/Qwen3-VL-comb-lora](https://huggingface.co/KaFFa0/qwen3-vl-comb-lora)
 - 4-битная квантизация для оптимизации обучения и инференса
 - LoRA-адаптеры для быстрого дообучения
 - Оценка по метрикам Exact Match, BLEU и Levenshtein similarity
